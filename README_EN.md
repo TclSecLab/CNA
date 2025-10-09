@@ -10,7 +10,7 @@
 
 | Series Name          | Example Models                                     |
 | -------------------- | -------------------------------------------------- |
-| TCL Android TV Series| P615, P725, P735 / Q725, Q825 / C725, C735, C845    |
+| TCL Android TV Series| A300    |
 | Others               | Other devices that are produced and maintained by TCL and have an intelligent TV operating system |
 
 ---
@@ -19,7 +19,7 @@
 
 | Series Name          | Example Models                                     |
 | -------------------- | -------------------------------------------------- |
-| TCL 10 Series        |                       |
+| TCL         |                       |
 
 
 ---
