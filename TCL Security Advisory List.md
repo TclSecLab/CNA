@@ -4,6 +4,8 @@ Welcome to the TCL Security Response Center (SRC) Security Advisory List.
 Here you can find all publicly disclosed security vulnerabilities, including affected products, vulnerability types, release dates, and official CVE links.  
 We are committed to working with the global security research community to improve the security of TCL smart terminal products.  
 
+Please note: Only vulnerabilities that have been submitted through the official TCL Security Response Center (SRC) platform or via our designated official disclosure channels will be included in this list.
+
 ---
 
 ## Advisory Directory
