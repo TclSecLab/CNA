@@ -18,8 +18,7 @@ We are committed to working with the global security research community to impro
 ## How to Report a Security Issue
 
 If you discover a new security vulnerability in TCL products, please contact us through the following channels:  
-- Security Vulnerability Submission Page: [https://src.tcl.com/](https://src.tcl.com/)  
-- Email: security@tcl.com  
+- Security Vulnerability Submission Page: [https://src.tcl.com/](https://src.tcl.com/)   
 
 We welcome and appreciate all security researchers who contribute to product security, and we will acknowledge contributors in our advisories.
 
