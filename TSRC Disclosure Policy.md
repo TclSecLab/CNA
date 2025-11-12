@@ -19,7 +19,6 @@ When reporting a security vulnerability to TCL, we ask that:
 - You read, agree and align with TCL Company Privacy Policy.
 - You read, agree and adhere to our Responsible Disclosure Terms & Conditions.
 
----
 
 ### Application for CVE IDs
 
