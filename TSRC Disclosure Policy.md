@@ -21,7 +21,7 @@ When reporting a security vulnerability to TCL, we ask that:
 
 ---
 
-Application for CVE IDs
+### Application for CVE IDs
 
 TCL is the world's 4XXth CVE Numbering Authority (CNA). We can help security researchers who report vulnerabilities in TCL CNA Product List apply for CVE IDs. Security researchers can send their applications to security@tcl.com. The TCL SRC will review their vulnerability reports in line with CVE requirements. If the review finds no problem, the TCL SRC will help the researchers apply for CVE IDs. For details, see the CVE ID Submission Instructions.
 
