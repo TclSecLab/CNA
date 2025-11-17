@@ -2,7 +2,7 @@
 
 > **Description:**  
 > As a **CVE Numbering Authority (CNA)**, TCL is responsible for accepting and handling vulnerability reports for products within its scope, and assigning CVE IDs.  
-> The following list is categorized into **Smart TV** and **Phone**, showing products for which TCL accepts vulnerability reports.
+> The following list is categorized into **Smart TV**, **Phone** and **Smart Pad**, showing products for which TCL accepts vulnerability reports.
 
 ---
 
@@ -21,6 +21,13 @@
 | -------------------- | -------------------------------------------------- |
 | TCL         |                       |
 
+---
+
+## Smart Pad
+
+| Series Name          | Example Models                                     |
+| -------------------- | -------------------------------------------------- |
+| TCL         |                       |
 
 ---
 
