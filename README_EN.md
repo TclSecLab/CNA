@@ -10,7 +10,7 @@
 
 | Series Name          | Example Models                                     |
 | -------------------- | -------------------------------------------------- |
-| TCL Android TV Series| A300    |
+| TCL Android TV Series| QM6K、S5K、P8L、P6K，V6C    |
 | Others               | Other devices that are produced and maintained by TCL and have an intelligent TV operating system |
 
 ---
