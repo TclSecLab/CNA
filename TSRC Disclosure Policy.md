@@ -19,6 +19,8 @@ When reporting a security vulnerability to TCL, we ask that:
 - You read, agree and align with TCL Company Privacy Policy.
 - You read, agree and adhere to our Responsible Disclosure Terms & Conditions.
 
+### Disclosure Timeline
+Once TCL receive the vulnerability report, we will provide an initial response to reporters within 3 working days, and provide our analysis on the vulnerability including whether we have verified that the reported vulnerability is an issue as soon as possible, of which the process may take several days or even weeks depending on the complexity and impact of the vulnerability. Once verified, TCL will work with the relevant internal teams and external partners to mitigate the vulnerability, develop product fixes and prepare appropriate content ahead of disclosure.
 
 ### Application for CVE IDs
 
@@ -29,6 +31,6 @@ TCL is the world's 4XXth CVE Numbering Authority (CNA). We can help security res
 ## Responsible Disclosure - Terms & Conditions
 
 - If you inadvertently or intentionally access TCL and its affiliates’ proprietary customer, employee, or business-related information during your testing, the information must not be used, disclosed, stored, or recorded in any way. Access to any such data must be declared as part of your vulnerability report.
-- By submitting information about a potential security vulnerability, you are granting TCL a worldwide, permanent, royalty-free, non-exclusive license to use your submission for the purpose of addressing security vulnerabilities in TCL or its affiliates’ products and services. We will respond to your report on TSRC, acknowledging receipt and updating you on our progress within 15 working days. Also we will continue to follow up on the issue until it is resolved. You can check the latest status of the vulnerability reports you submitted by logging into the official TSRC website. This allows you to keep track of the progress until we complete the fixes and close the vulnerability report.  
+- By submitting information about a potential security vulnerability, you are granting TCL a worldwide, permanent, royalty-free, non-exclusive license to use your submission for the purpose of addressing security vulnerabilities in TCL or its affiliates’ products and services. We will respond to your report on TSRC, acknowledge the receipt and update you on our progress. Also we will continue to follow up on the issue until it is resolved. You can check the latest status of the vulnerability reports you submitted by logging into the official TSRC website. This allows you to keep track of the progress until we complete the fixes and close the vulnerability report.  
   **Website:** https://src.tcl.com/
 - By submitting a security vulnerability report, you affirm that you have not previously disclosed the security vulnerability to anyone other than TCL. Absent TCL prior written consent, any disclosure outside of this process would be a violation of the terms & conditions of the Program.
