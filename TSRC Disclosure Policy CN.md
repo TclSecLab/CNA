@@ -30,7 +30,7 @@ TCL 是全球第 4XX 家 CVE 编号机构（CNA）。我们可以协助向 TCL C
 ### 漏洞范围
 
 对于TCL会进行处理的漏洞范围，请查看以下链接：
-https://github.com/TclSecLab/CNA/blob/main/TCL%20Vulnerability%20Reward%20Rules.md
+[TCL Smart Terminal Vulnerability Reward Rules](https://github.com/TclSecLab/CNA/blob/main/TCL%20Smart%20Terminal%20Vulnerability%20Reward%20Rules.md)
 
 ---
 
