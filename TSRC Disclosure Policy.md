@@ -32,7 +32,8 @@ for the specific scope of vulnerability that TCL will handle, please refer to th
 ### Out of scope
 
 #### Code and Data Protection:
-Lack of certificate pinning;\ 
+Lack of certificate pinning;
+
 Transmission of sensitive data in URL/request body under TLS protection;
 
 User data stored on external storage without encryption (excluding APP logs containing sensitive information and user data committed to encrypted storage);
@@ -42,21 +43,31 @@ Application lacks code obfuscation protection;
 APK can be repackaged;
 
 APK contains hardcoded or recoverable keys;
+
 Sensitive data protected by the application’s private directory;
+
 Lack of binary protection controls in Android applications;
+
 Application sets allowBackup to True;
 
 #### Low-Impact DoS:
 Sending malformed intents to exported components, resulting only in application crash;
+
 Excessive resource requests leading to browser crash;
+
 Local DoS attack that can be resolved by simply restarting the application;
+
 Temporary framework restart；
 
 #### others:
 Application can access data within the scope of the granted permissions after obtaining them;
+
 Runtime hacking attacks using tools such as, but not limited to, Frida/Appmon (possible only in a jailbroken/rooted environment);
+
 Phishing attacks with low level of deception;
+
 Reports too simple to reproduce the vulnerability;
+
 Exploits with extremely strict conditions, high attack cost, and low potential impact/damage;
 
 ---
