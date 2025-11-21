@@ -33,10 +33,15 @@ for the specific scope of vulnerability that TCL will handle, please refer to th
 
 #### Code and Data Protection:
 Lack of certificate pinning;
+
 Transmission of sensitive data in URL/request body under TLS protection;
+
 User data stored on external storage without encryption (excluding APP logs containing sensitive information and user data committed to encrypted storage);
+
 Application lacks code obfuscation protection;
+
 APK can be repackaged;
+
 APK contains hardcoded or recoverable keys;
 Sensitive data protected by the application’s private directory;
 Lack of binary protection controls in Android applications;
