@@ -31,6 +31,8 @@ for the specific scope of vulnerability that TCL will handle, please refer to th
 
 ### Out of scope
 
+TCL will not issue the vulnerabilities listed below
+
 #### Code and Data Protection:
 Lack of certificate pinning;
 
