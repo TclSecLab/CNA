@@ -59,7 +59,7 @@ Local DoS attack that can be resolved by simply restarting the application;
 
 Temporary framework restart；
 
-#### others:
+#### Others:
 Application can access data within the scope of the granted permissions after obtaining them;
 
 Runtime hacking attacks using tools such as, but not limited to, Frida/Appmon (possible only in a jailbroken/rooted environment);
