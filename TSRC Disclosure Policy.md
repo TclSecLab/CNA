@@ -29,7 +29,7 @@ TCL is the world's 4XXth CVE Numbering Authority (CNA). We can help security res
 ### The vulnerability scope
 for the specific scope of vulnerability that TCL will handle, please refer to the link: [TCL Smart Terminal Vulnerability Reward Rules](https://github.com/TclSecLab/CNA/blob/main/TCL%20Smart%20Terminal%20Vulnerability%20Reward%20Rules.md)
 
-### out of scope
+### Out of scope
 
 #### Code and Data Protection:
 Lack of certificate pinning;
