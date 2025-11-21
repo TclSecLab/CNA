@@ -32,7 +32,7 @@ for the specific scope of vulnerability that TCL will handle, please refer to th
 ### Out of scope
 
 #### Code and Data Protection:
-Lack of certificate pinning; 
+Lack of certificate pinning;\ 
 Transmission of sensitive data in URL/request body under TLS protection;
 
 User data stored on external storage without encryption (excluding APP logs containing sensitive information and user data committed to encrypted storage);
