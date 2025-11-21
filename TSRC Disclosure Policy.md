@@ -27,7 +27,33 @@ Once TCL receive the vulnerability report, we will provide an initial response t
 TCL is the world's 4XXth CVE Numbering Authority (CNA). We can help security researchers who report vulnerabilities in TCL CNA Product List apply for CVE IDs. Security researchers can send their applications to security@tcl.com. The TCL SRC will review their vulnerability reports in line with CVE requirements. If level of the vulnerability is considered to be high or above, the TCL SRC will help the researchers apply for CVE IDs. For details, please read the CVE ID Submission Instructions.
 
 ### The vulnerability scope
-for the scope of vulnerability that TCL will handle, please refer to the link: [TCL Smart Terminal Vulnerability Reward Rules](https://github.com/TclSecLab/CNA/blob/main/TCL%20Smart%20Terminal%20Vulnerability%20Reward%20Rules.md)
+for the specific scope of vulnerability that TCL will handle, please refer to the link: [TCL Smart Terminal Vulnerability Reward Rules](https://github.com/TclSecLab/CNA/blob/main/TCL%20Smart%20Terminal%20Vulnerability%20Reward%20Rules.md)
+
+### out of scope
+
+#### Code and Data Protection:
+Lack of certificate pinning;
+Transmission of sensitive data in URL/request body under TLS protection;
+User data stored on external storage without encryption (excluding APP logs containing sensitive information and user data committed to encrypted storage);
+Application lacks code obfuscation protection;
+APK can be repackaged;
+APK contains hardcoded or recoverable keys;
+Sensitive data protected by the application’s private directory;
+Lack of binary protection controls in Android applications;
+Application sets allowBackup to True;
+
+#### Low-Impact DoS
+Sending malformed intents to exported components, resulting only in application crash;
+Excessive resource requests leading to browser crash;
+Local DoS attack that can be resolved by simply restarting the application;
+Temporary framework restart；
+
+#### others
+Application can access data within the scope of the granted permissions after obtaining them;
+Runtime hacking attacks using tools such as, but not limited to, Frida/Appmon (possible only in a jailbroken/rooted environment);
+Phishing attacks with low level of deception;
+Reports too simple to reproduce the vulnerability;
+Exploits with extremely strict conditions, high attack cost, and low potential impact/damage;
 
 ---
 
