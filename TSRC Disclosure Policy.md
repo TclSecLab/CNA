@@ -42,13 +42,13 @@ Sensitive data protected by the application’s private directory;
 Lack of binary protection controls in Android applications;
 Application sets allowBackup to True;
 
-#### Low-Impact DoS
+#### Low-Impact DoS:
 Sending malformed intents to exported components, resulting only in application crash;
 Excessive resource requests leading to browser crash;
 Local DoS attack that can be resolved by simply restarting the application;
 Temporary framework restart；
 
-#### others
+#### others:
 Application can access data within the scope of the granted permissions after obtaining them;
 Runtime hacking attacks using tools such as, but not limited to, Frida/Appmon (possible only in a jailbroken/rooted environment);
 Phishing attacks with low level of deception;
