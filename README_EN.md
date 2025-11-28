@@ -18,7 +18,7 @@
 
 | Series Name          | Example Models                                     |
 | -------------------- | -------------------------------------------------- |
-| TCL         |   TCL NXTPAPER 60 Ultra                    |
+| TCL         |   TCL 60 5G                   |
 
 ---
 
