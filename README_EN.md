@@ -10,8 +10,7 @@
 
 | Series Name          | Example Models                                     |
 | -------------------- | -------------------------------------------------- |
-| TCL Android TV Series| QM6K、S5K、P8L、P6K，V6C    |
-| Others               | Other devices that are produced and maintained by TCL and have an intelligent TV operating system |
+| TCL Android TV Series| S5K    |
 
 ---
 
@@ -19,7 +18,7 @@
 
 | Series Name          | Example Models                                     |
 | -------------------- | -------------------------------------------------- |
-| TCL         |                       |
+| TCL         |   TCL NXTPAPER 60 Ultra                    |
 
 ---
 
@@ -27,7 +26,15 @@
 
 | Series Name          | Example Models                                     |
 | -------------------- | -------------------------------------------------- |
-| TCL         |                       |
+| TCL         |          TCL NXTPAPER 11 Plus            |
+
+---
+
+**Note:**
+
+1.Please update to the latest complete system version for the series listed in the product table.
+
+2.The product list will be continuously updated. If there are new series that need to be updated promptly, please contact the security team of TCL for confirmation.
 
 ---
 
