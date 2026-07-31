@@ -12,8 +12,8 @@ Please note: Only vulnerabilities that have been submitted through the official 
 
 | Release Date | CVE ID | Vulnerability Name | Severity |  Details |
 |--------------|--------|--------------------|----------|-----------------|
-| 2020-12-07   | [CVE-2020-27403](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27403) | Sensitive Information Disclosure | Critical| [View](EN/CVE-2020-27403.md) |
-| 2020-12-07   | [CVE-2020-28055](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28055) | Privilege Bypass | Critical | [View](EN/CVE-2020-28055.md) |
+| 2020-12-07   | [CVE-2020-27403](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27403) | Sensitive Information Disclosure | Medium | [View](EN/CVE-2020-27403.md) |
+| 2020-12-07   | [CVE-2020-28055](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28055) | Privilege Bypass | High | [View](EN/CVE-2020-28055.md) |
 
 ---
 
